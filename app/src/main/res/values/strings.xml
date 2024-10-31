@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CafeteriaUTCV</string>
+    <string name="cafeteria">CafeteriaUTCV</string>
+    <string name="agregarCompra">Agregar Pedido</string>
+    <string name="consultarCompra">Consultar Pedidos</string>
+    <string name="producto">Producto</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="precio">Precio unitario</string>
+    <string name="agregar">Agregar</string>
+    <string name="finalizar">Finalizar pedido en cola</string>
+    <string name="salir">Salir</string>
+</resources>
